@@ -1,0 +1,13 @@
+name: Twente Bot Analytics
+on:
+  schedule:
+    - cron:  "1 1 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Trigger Twente Bot webhook
+      uses: joelwmale/webhook-action@master
+      env:
+        WEBHOOK_URL: ${{ secrets.ANALYTICS_URL }}
+        data: "Update Cloudflare DNS"
