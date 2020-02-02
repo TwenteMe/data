@@ -1,4 +1,5 @@
 {
   "contact": "anandchowdhary+twenteme@gmail.com",
-  "creates": "anandchowdhary+twentecreates@gmail.com"
+  "creates": "anandchowdhary+twentecreates@gmail.com",
+  "example-multiple": ["anandchowdhary+1@gmail.com", "anandchowdhary+2@gmail.com"]
 }
