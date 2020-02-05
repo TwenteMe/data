@@ -363,6 +363,122 @@
       "date": "2020-02-04"
     },
     "sum": {
+      "browserMap": [
+        {
+          "pageViews": 3,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 4,
+          "uaBrowserFamily": "Chrome"
+        }
+      ],
+      "bytes": 117032,
+      "cachedBytes": 9721,
+      "cachedRequests": 34,
+      "contentTypeMap": [
+        {
+          "bytes": 21206,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 2
+        },
+        {
+          "bytes": 7883,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 33
+        },
+        {
+          "bytes": 1101,
+          "edgeResponseContentTypeName": "js",
+          "requests": 1
+        },
+        {
+          "bytes": 3815,
+          "edgeResponseContentTypeName": "css",
+          "requests": 2
+        },
+        {
+          "bytes": 83027,
+          "edgeResponseContentTypeName": "html",
+          "requests": 24
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 277,
+          "clientCountryName": "CA",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 3837,
+          "clientCountryName": "CZ",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 8966,
+          "clientCountryName": "FR",
+          "requests": 3,
+          "threats": 0
+        },
+        {
+          "bytes": 13352,
+          "clientCountryName": "IT",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 36923,
+          "clientCountryName": "NL",
+          "requests": 9,
+          "threats": 0
+        },
+        {
+          "bytes": 20968,
+          "clientCountryName": "SG",
+          "requests": 11,
+          "threats": 0
+        },
+        {
+          "bytes": 32709,
+          "clientCountryName": "US",
+          "requests": 35,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 109149,
+      "encryptedRequests": 31,
+      "pageViews": 7,
+      "requests": 62,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 12
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 31
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 17
+        },
+        {
+          "edgeResponseStatus": 499,
+          "requests": 2
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 38
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-02-05"
+    },
+    "sum": {
       "browserMap": [],
       "bytes": 244,
       "cachedBytes": 244,
