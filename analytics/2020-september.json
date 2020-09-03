@@ -1,0 +1,282 @@
+[
+  {
+    "dimensions": {
+      "date": "2020-09-01"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 293,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "Chrome"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "GoogleBot"
+        }
+      ],
+      "bytes": 359224,
+      "cachedBytes": 22904,
+      "cachedRequests": 53,
+      "contentTypeMap": [
+        {
+          "bytes": 6218,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 2
+        },
+        {
+          "bytes": 22141,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 52
+        },
+        {
+          "bytes": 9694,
+          "edgeResponseContentTypeName": "js",
+          "requests": 1
+        },
+        {
+          "bytes": 320408,
+          "edgeResponseContentTypeName": "html",
+          "requests": 308
+        },
+        {
+          "bytes": 763,
+          "edgeResponseContentTypeName": "txt",
+          "requests": 1
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 7326,
+          "clientCountryName": "FR",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 13827,
+          "clientCountryName": "IT",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 16691,
+          "clientCountryName": "SG",
+          "requests": 6,
+          "threats": 0
+        },
+        {
+          "bytes": 34006,
+          "clientCountryName": "TR",
+          "requests": 11,
+          "threats": 0
+        },
+        {
+          "bytes": 287374,
+          "clientCountryName": "US",
+          "requests": 344,
+          "threats": 1
+        }
+      ],
+      "encryptedBytes": 337083,
+      "encryptedRequests": 313,
+      "pageViews": 295,
+      "requests": 364,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 298
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 51
+        },
+        {
+          "edgeResponseStatus": 403,
+          "requests": 1
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 13
+        },
+        {
+          "edgeResponseStatus": 499,
+          "requests": 1
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 24
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-09-02"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 299,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "Chrome"
+        }
+      ],
+      "bytes": 342256,
+      "cachedBytes": 12747,
+      "cachedRequests": 30,
+      "contentTypeMap": [
+        {
+          "bytes": 2066,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 1
+        },
+        {
+          "bytes": 12747,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 30
+        },
+        {
+          "bytes": 1037,
+          "edgeResponseContentTypeName": "xml",
+          "requests": 1
+        },
+        {
+          "bytes": 326406,
+          "edgeResponseContentTypeName": "html",
+          "requests": 326
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 1257,
+          "clientCountryName": "AU",
+          "requests": 3,
+          "threats": 0
+        },
+        {
+          "bytes": 8084,
+          "clientCountryName": "CZ",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 49614,
+          "clientCountryName": "DE",
+          "requests": 38,
+          "threats": 0
+        },
+        {
+          "bytes": 18304,
+          "clientCountryName": "FR",
+          "requests": 4,
+          "threats": 0
+        },
+        {
+          "bytes": 36689,
+          "clientCountryName": "SG",
+          "requests": 10,
+          "threats": 0
+        },
+        {
+          "bytes": 228308,
+          "clientCountryName": "US",
+          "requests": 301,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 329509,
+      "encryptedRequests": 330,
+      "pageViews": 300,
+      "requests": 358,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 301
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 28
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 27
+        },
+        {
+          "edgeResponseStatus": 499,
+          "requests": 2
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 27
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-09-03"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 44,
+          "uaBrowserFamily": "Unknown"
+        }
+      ],
+      "bytes": 39864,
+      "cachedBytes": 1427,
+      "cachedRequests": 3,
+      "contentTypeMap": [
+        {
+          "bytes": 1427,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 3
+        },
+        {
+          "bytes": 38437,
+          "edgeResponseContentTypeName": "html",
+          "requests": 47
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 5065,
+          "clientCountryName": "FR",
+          "requests": 4,
+          "threats": 0
+        },
+        {
+          "bytes": 34799,
+          "clientCountryName": "US",
+          "requests": 46,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 38437,
+      "encryptedRequests": 47,
+      "pageViews": 44,
+      "requests": 50,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 44
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 3
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 3
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 3
+    }
+  }
+]
