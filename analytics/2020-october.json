@@ -1,0 +1,62 @@
+[
+  {
+    "dimensions": {
+      "date": "2020-10-01"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 55,
+          "uaBrowserFamily": "Unknown"
+        }
+      ],
+      "bytes": 66631,
+      "cachedBytes": 0,
+      "cachedRequests": 0,
+      "contentTypeMap": [
+        {
+          "bytes": 66631,
+          "edgeResponseContentTypeName": "html",
+          "requests": 57
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 2425,
+          "clientCountryName": "CN",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 13176,
+          "clientCountryName": "SG",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 51030,
+          "clientCountryName": "US",
+          "requests": 54,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 66631,
+      "encryptedRequests": 57,
+      "pageViews": 55,
+      "requests": 57,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 55
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 2
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 5
+    }
+  }
+]
