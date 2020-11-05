@@ -1,0 +1,526 @@
+[
+  {
+    "dimensions": {
+      "date": "2020-11-01"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 292,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 6,
+          "uaBrowserFamily": "Chrome"
+        }
+      ],
+      "bytes": 498092,
+      "cachedBytes": 25950,
+      "cachedRequests": 37,
+      "contentTypeMap": [
+        {
+          "bytes": 25950,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 37
+        },
+        {
+          "bytes": 10352,
+          "edgeResponseContentTypeName": "js",
+          "requests": 1
+        },
+        {
+          "bytes": 1905,
+          "edgeResponseContentTypeName": "css",
+          "requests": 1
+        },
+        {
+          "bytes": 459885,
+          "edgeResponseContentTypeName": "html",
+          "requests": 342
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 36907,
+          "clientCountryName": "CN",
+          "requests": 9,
+          "threats": 0
+        },
+        {
+          "bytes": 3611,
+          "clientCountryName": "DE",
+          "requests": 4,
+          "threats": 0
+        },
+        {
+          "bytes": 52399,
+          "clientCountryName": "FR",
+          "requests": 27,
+          "threats": 0
+        },
+        {
+          "bytes": 2523,
+          "clientCountryName": "NG",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 8817,
+          "clientCountryName": "NL",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 36022,
+          "clientCountryName": "RU",
+          "requests": 15,
+          "threats": 0
+        },
+        {
+          "bytes": 8934,
+          "clientCountryName": "SG",
+          "requests": 5,
+          "threats": 0
+        },
+        {
+          "bytes": 348879,
+          "clientCountryName": "US",
+          "requests": 318,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 472142,
+      "encryptedRequests": 344,
+      "pageViews": 298,
+      "requests": 381,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 300
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 37
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 44
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 35
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-11-02"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 293,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 2,
+          "uaBrowserFamily": "Chrome"
+        }
+      ],
+      "bytes": 410211,
+      "cachedBytes": 9759,
+      "cachedRequests": 12,
+      "contentTypeMap": [
+        {
+          "bytes": 996,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 1
+        },
+        {
+          "bytes": 7724,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 11
+        },
+        {
+          "bytes": 401491,
+          "edgeResponseContentTypeName": "html",
+          "requests": 313
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 15010,
+          "clientCountryName": "CN",
+          "requests": 6,
+          "threats": 0
+        },
+        {
+          "bytes": 8648,
+          "clientCountryName": "CZ",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 20653,
+          "clientCountryName": "FR",
+          "requests": 8,
+          "threats": 0
+        },
+        {
+          "bytes": 698,
+          "clientCountryName": "GB",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 6818,
+          "clientCountryName": "IE",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 8647,
+          "clientCountryName": "NL",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 13862,
+          "clientCountryName": "SG",
+          "requests": 5,
+          "threats": 0
+        },
+        {
+          "bytes": 335875,
+          "clientCountryName": "US",
+          "requests": 299,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 402487,
+      "encryptedRequests": 314,
+      "pageViews": 295,
+      "requests": 325,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 296
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 11
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 18
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 27
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-11-03"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 283,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "Chrome"
+        },
+        {
+          "pageViews": 1,
+          "uaBrowserFamily": "Firefox"
+        }
+      ],
+      "bytes": 356314,
+      "cachedBytes": 6247,
+      "cachedRequests": 9,
+      "contentTypeMap": [
+        {
+          "bytes": 986,
+          "edgeResponseContentTypeName": "unknown",
+          "requests": 1
+        },
+        {
+          "bytes": 6247,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 9
+        },
+        {
+          "bytes": 349081,
+          "edgeResponseContentTypeName": "html",
+          "requests": 298
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 12577,
+          "clientCountryName": "CN",
+          "requests": 5,
+          "threats": 0
+        },
+        {
+          "bytes": 11304,
+          "clientCountryName": "DE",
+          "requests": 4,
+          "threats": 0
+        },
+        {
+          "bytes": 7995,
+          "clientCountryName": "FR",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 8827,
+          "clientCountryName": "NL",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 2046,
+          "clientCountryName": "SE",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 11794,
+          "clientCountryName": "SG",
+          "requests": 4,
+          "threats": 0
+        },
+        {
+          "bytes": 301771,
+          "clientCountryName": "US",
+          "requests": 290,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 350067,
+      "encryptedRequests": 299,
+      "pageViews": 285,
+      "requests": 308,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 286
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 9
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 13
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 18
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-11-04"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 202,
+          "uaBrowserFamily": "Unknown"
+        },
+        {
+          "pageViews": 2,
+          "uaBrowserFamily": "Chrome"
+        },
+        {
+          "pageViews": 5,
+          "uaBrowserFamily": "Firefox"
+        }
+      ],
+      "bytes": 341070,
+      "cachedBytes": 11279,
+      "cachedRequests": 7,
+      "contentTypeMap": [
+        {
+          "bytes": 4271,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 6
+        },
+        {
+          "bytes": 10448,
+          "edgeResponseContentTypeName": "js",
+          "requests": 1
+        },
+        {
+          "bytes": 326351,
+          "edgeResponseContentTypeName": "html",
+          "requests": 223
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 3285,
+          "clientCountryName": "CA",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 12565,
+          "clientCountryName": "CN",
+          "requests": 5,
+          "threats": 0
+        },
+        {
+          "bytes": 7686,
+          "clientCountryName": "DE",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 62582,
+          "clientCountryName": "FR",
+          "requests": 13,
+          "threats": 0
+        },
+        {
+          "bytes": 6801,
+          "clientCountryName": "IE",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 14087,
+          "clientCountryName": "IT",
+          "requests": 1,
+          "threats": 0
+        },
+        {
+          "bytes": 18150,
+          "clientCountryName": "SG",
+          "requests": 5,
+          "threats": 0
+        },
+        {
+          "bytes": 215914,
+          "clientCountryName": "US",
+          "requests": 200,
+          "threats": 1
+        }
+      ],
+      "encryptedBytes": 336799,
+      "encryptedRequests": 224,
+      "pageViews": 209,
+      "requests": 230,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 210
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 6
+        },
+        {
+          "edgeResponseStatus": 403,
+          "requests": 1
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 13
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 22
+    }
+  },
+  {
+    "dimensions": {
+      "date": "2020-11-05"
+    },
+    "sum": {
+      "browserMap": [
+        {
+          "pageViews": 55,
+          "uaBrowserFamily": "Unknown"
+        }
+      ],
+      "bytes": 84081,
+      "cachedBytes": 2741,
+      "cachedRequests": 2,
+      "contentTypeMap": [
+        {
+          "bytes": 703,
+          "edgeResponseContentTypeName": "empty",
+          "requests": 1
+        },
+        {
+          "bytes": 83378,
+          "edgeResponseContentTypeName": "html",
+          "requests": 61
+        }
+      ],
+      "countryMap": [
+        {
+          "bytes": 6239,
+          "clientCountryName": "CA",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 5019,
+          "clientCountryName": "CN",
+          "requests": 2,
+          "threats": 0
+        },
+        {
+          "bytes": 15157,
+          "clientCountryName": "CZ",
+          "requests": 3,
+          "threats": 0
+        },
+        {
+          "bytes": 5724,
+          "clientCountryName": "SG",
+          "requests": 3,
+          "threats": 0
+        },
+        {
+          "bytes": 51942,
+          "clientCountryName": "US",
+          "requests": 52,
+          "threats": 0
+        }
+      ],
+      "encryptedBytes": 83378,
+      "encryptedRequests": 61,
+      "pageViews": 55,
+      "requests": 62,
+      "responseStatusMap": [
+        {
+          "edgeResponseStatus": 200,
+          "requests": 55
+        },
+        {
+          "edgeResponseStatus": 301,
+          "requests": 1
+        },
+        {
+          "edgeResponseStatus": 404,
+          "requests": 6
+        }
+      ]
+    },
+    "uniq": {
+      "uniques": 8
+    }
+  }
+]
